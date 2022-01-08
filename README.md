@@ -2,7 +2,7 @@
 
 This project is part of the admission process at Klutch Tecnologia. The objetie is create a basic ecommerce to deal with customers access, orders and product registration in storage. The project is written in python django with the Graphql API architeture.
 
-You can access the deployed app at [here](https://klutch-ecommerce-challenge.herokuapp.com).
+You can access the deployed app at [here](https://klutch.herokuapp.com/graphql/).
 
 ## Technologies
 
@@ -18,7 +18,7 @@ You can access the deployed app at [here](https://klutch-ecommerce-challenge.her
 After you clone this repository in your machine, get into the project folder, create a virtual enviroment and activate it:
 
 ```bash
-git clone https://github.com/hereisjohnny2/klutch-ecommerce.git
+git clone https://github.com/Isaac202/desafio-klutch
 cd klutch-ecommerce
 python -m venv venv
 source venv/script/activate
