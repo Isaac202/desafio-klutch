@@ -1,4 +1,4 @@
-# Klutch E-Commerce Challenge
+# Klutch E-Commerce
 
 This project is part of the admission process at Klutch Tecnologia. The objetie is create a basic ecommerce to deal with customers access, orders and product registration in storage. The project is written in python django with the Graphql API architeture.
 
